@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "body-parser": "^1.16.1",
-    "express": "~4.11.1",
+    "express": "~4.17.3",
     "express-bearer-token": "^2.1.0",
     "hash": "^0.2.0",
     "mongodb": "^2.2.24",
